@@ -7,7 +7,7 @@
 </head>
     <style>
 <body>
-        background-color:lightpink:
+        background-color:lightpink;
     <h1>Visitor Management System - Sycatel</h1>
     <ul>
         <li><a href="add_visitor.php">Add New Visitor</a></li>
